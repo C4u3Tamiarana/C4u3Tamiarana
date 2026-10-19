@@ -38,7 +38,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4u3Tamiarana&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4u3Tamiarana&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4u3Tamiarana&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas">
 </div>
 
