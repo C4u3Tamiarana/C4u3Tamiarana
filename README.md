@@ -6,13 +6,13 @@
 <div style="display: inline-block"><br/>
  <a href="https://codepen.io/suricatstar" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
  
- <a href="https://www.linkedin.com/in/caue-tamiarana-522ba4247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/cauetamiarana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Cauê's GitHub stats](https://github-readme-stats.vercel.app/api?username=suricatstar&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suricatstar&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Cauê's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4u3Tamiarana&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4u3Tamiarana&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Cauê's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suricatstar&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Cauê's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=C4u3Tamiarana&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias que já tive ou tenho contato:
  <div style="display: inline-block"><br/>
